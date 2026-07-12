@@ -57,11 +57,16 @@ Fee Management — view all payments, confirm offline payments
 
 Student Management — view all registered students
 
+
+
 📅 Year-wise Enrollment Flow
 
 Year 1 → Apply → Admin Approves → Pay Fee
+
 Year 2 → Enter Year 1 SGPA/CGPA/Attendance → Apply → Admin Approves → Pay Fee
+
 Year 3 → Same as Year 2
+
 Year 4 → Same as Year 2
 
 
