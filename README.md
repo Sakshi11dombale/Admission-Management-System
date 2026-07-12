@@ -78,11 +78,9 @@ Year 4 → Same as Year 2
 Student Journey
 
 Register Account
-
       ↓
       
 Login → Student Dashboard
-
       ↓
       
 Apply for Admission (4-step form)
