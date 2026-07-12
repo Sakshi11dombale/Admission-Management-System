@@ -75,7 +75,7 @@ Year 4 → Same as Year 2
 
 ## 🔄 **Application Flow**
 
-**tudent Journey***
+**Student Journey**
 
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/d8a30e20-aa4e-43c3-a33f-cdb2389a53b3" />
 
