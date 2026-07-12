@@ -1,4 +1,4 @@
-🏫 About the Project
+🏫 *About the Project*
 
 The Engineering College Admission Management System is a complete web-based portal built for engineering colleges to digitize and streamline the entire admission process — from student registration and application to year-wise re-enrollment and fee payment tracking.
 
