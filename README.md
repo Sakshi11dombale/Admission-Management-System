@@ -74,33 +74,9 @@ Year 4 → Same as Year 2
 
 
 ## 🔄 **Application Flow**
-
 Student Journey
 
-Register Account
-      ↓
-      
-Login → Student Dashboard
-      ↓
-      
-Apply for Admission (4-step form)
-
-  → Choose Department → Select Program
-  → Enter 10th/12th/JEE marks
-  → Select Category → See fee calculation
-  → Upload documents
-      ↓
-Admin reviews & approves/rejects
-      ↓
-If APPROVED → Student goes to "My Enrollments"
-      ↓
-Year 1 Enrollment → Admin approves → Pay Year 1 Fee
-      ↓
-Year 2 Enrollment → Enter SGPA/CGPA → Admin approves → Pay Year 2 Fee
-      ↓
-Year 3 → Same process
-      ↓
-Year 4 → Same process → Program Complete 🎓
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/d8a30e20-aa4e-43c3-a33f-cdb2389a53b3" />
 
 Admin Journey
 
