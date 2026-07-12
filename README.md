@@ -52,7 +52,9 @@ Program Management — add/edit B.Tech, M.Tech, Diploma programs
 Department Management — 8 engineering departments
 
 Enrollment Management — approve/reject year-wise re-enrollments
+
 Fee Management — view all payments, confirm offline payments
+
 Student Management — view all registered students
 
 📅 Year-wise Enrollment Flow
