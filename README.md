@@ -6,6 +6,7 @@ The system supports two roles:
 
 
 Admin — manages applications, programs, departments, enrollments, and approvals
+
 Student — registers, applies for programs, tracks status, re-enrolls each year, and pays fees
 
 
