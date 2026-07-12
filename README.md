@@ -44,9 +44,13 @@ Notifications — real-time updates on application/enrollment status
 
 
 Dashboard — statistics, charts, recent applications
+
 Application Management — view, approve, reject with remarks
+
 Program Management — add/edit B.Tech, M.Tech, Diploma programs
+
 Department Management — 8 engineering departments
+
 Enrollment Management — approve/reject year-wise re-enrollments
 Fee Management — view all payments, confirm offline payments
 Student Management — view all registered students
