@@ -21,7 +21,7 @@ Session management with auto-logout
 AuthFilter protecting all secured routes
 
 
-##👨‍🎓 **Student Portal**
+## 👨‍🎓 **Student Portal**
 
 
 Dashboard — application status, notifications, available programs
@@ -40,29 +40,29 @@ Fee Payments — view payment history, pay year-wise semester fees
 Notifications — real-time updates on application/enrollment status
 
 
-##👨‍💼 **Admin Panel**
+## 👨‍💼 **Admin Panel**
 
 
-Dashboard — statistics, charts, recent applications
+**Dashboard** — statistics, charts, recent applications
 
-Application Management — view, approve, reject with remarks
+**Application Management** — view, approve, reject with remarks
 
-Program Management — add/edit B.Tech, M.Tech, Diploma programs
+**Program Management** — add/edit B.Tech, M.Tech, Diploma programs
 
-Department Management — 8 engineering departments
+**Department Management** — 8 engineering departments
 
-Enrollment Management — approve/reject year-wise re-enrollments
+**Enrollment Management** — approve/reject year-wise re-enrollments
 
-Fee Management — view all payments, confirm offline payments
+**Fee Management** — view all payments, confirm offline payments
 
-Student Management — view all registered students
-
-
-
+**Student Management** — view all registered students
 
 
 
-##📅 **Year-wise Enrollment Flow**
+
+
+
+## 📅 **Year-wise Enrollment Flow**
 
 Year 1 → Apply → Admin Approves → Pay Fee
 
@@ -73,7 +73,7 @@ Year 3 → Same as Year 2
 Year 4 → Same as Year 2
 
 
-##🔄 **Application Flow**
+## 🔄 **Application Flow**
 
 Student Journey
 
@@ -112,7 +112,7 @@ View Fee Payments → Confirm offline payments
 Manage Programs → Add / Edit programs and fees
 
 
-##👨‍💻 **Author**
+## 👨‍💻 **Author**
 
 Sakshi Dombale
 
