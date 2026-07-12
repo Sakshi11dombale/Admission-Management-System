@@ -74,21 +74,15 @@ Year 4 → Same as Year 2
 
 
 ## 🔄 **Application Flow**
-Student Journey
+
+**tudent Journey***
 
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/d8a30e20-aa4e-43c3-a33f-cdb2389a53b3" />
 
-Admin Journey
+**Admin Journey**
 
-Login → Admin Dashboard
-      ↓
-View Applications → Approve / Reject
-      ↓
-View Enrollments → Approve / Reject year-wise
-      ↓
-View Fee Payments → Confirm offline payments
-      ↓
-Manage Programs → Add / Edit programs and fees
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/c5e31169-7ad1-4d16-b4a2-5edb6ea4a238" />
+
 
 
 ## 👨‍💻 **Author**
