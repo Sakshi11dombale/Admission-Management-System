@@ -10,7 +10,7 @@ Student — registers, applies for programs, tracks status, re-enrolls each year
 
 
 
-✨ Features
+## ✨ **Features**
 
 🔐 Authentication
 
@@ -21,7 +21,7 @@ Session management with auto-logout
 AuthFilter protecting all secured routes
 
 
-👨‍🎓 Student Portal
+##👨‍🎓 **Student Portal**
 
 
 Dashboard — application status, notifications, available programs
@@ -40,7 +40,7 @@ Fee Payments — view payment history, pay year-wise semester fees
 Notifications — real-time updates on application/enrollment status
 
 
-👨‍💼 Admin Panel
+##👨‍💼 **Admin Panel**
 
 
 Dashboard — statistics, charts, recent applications
@@ -62,7 +62,7 @@ Student Management — view all registered students
 
 
 
-📅 Year-wise Enrollment Flow
+##📅 **Year-wise Enrollment Flow**
 
 Year 1 → Apply → Admin Approves → Pay Fee
 
@@ -73,7 +73,7 @@ Year 3 → Same as Year 2
 Year 4 → Same as Year 2
 
 
-🔄 Application Flow
+##🔄 **Application Flow**
 
 Student Journey
 
@@ -112,10 +112,10 @@ View Fee Payments → Confirm offline payments
 Manage Programs → Add / Edit programs and fees
 
 
-👨‍💻 Author
+##👨‍💻 **Author**
 
-Your Name
+Sakshi Dombale
 
 
 GitHub: @your-username
-Email: your-email@example.com
+Email: dombales98@gmail.com
