@@ -41,8 +41,6 @@ Step 4: Document upload (photo, marksheets, certificates)
 
 
 
-
-
 My Applications — track all submitted applications
 
 Year-wise Re-enrollment — apply for Year 1 → 2 → 3 → 4 each academic year
