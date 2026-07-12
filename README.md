@@ -16,8 +16,11 @@ Student — registers, applies for programs, tracks status, re-enrolls each year
 
 
 Student self-registration with username/password
+
 Role-based login (Admin / Student)
+
 Session management with auto-logout
+
 AuthFilter protecting all secured routes
 
 
@@ -25,18 +28,25 @@ AuthFilter protecting all secured routes
 
 
 Dashboard — application status, notifications, available programs
+
 Apply for Admission — 4-step form with department filter
 
 Step 1: Personal information & program selection
+
 Step 2: Academic details (10th, 12th, entrance exam)
+
 Step 3: Category/religion with live fee calculation
+
 Step 4: Document upload (photo, marksheets, certificates)
 
 
 
 My Applications — track all submitted applications
+
 Year-wise Re-enrollment — apply for Year 1 → 2 → 3 → 4 each academic year
+
 Fee Payments — view payment history, pay year-wise semester fees
+
 Notifications — real-time updates on application/enrollment status
 
 
